@@ -15,5 +15,6 @@ https://stackoverflow.com/questions/33138862/text-box-in-android: Learned how to
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Ben Bui`    | `bbui`    |
 | `Alyssa Shen`| `xshen13`  |
+
